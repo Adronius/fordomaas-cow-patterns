@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+<!-- Facial -->
+	<!-- Black Face -->
+	<TattooDef>
+		<defName>FDCowTattoo_Face_BlackCow1</defName>
+		<label>black cow face 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_BlackCow1/Face_BlackCow1</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_BlackCow2</defName>
+		<label>black cow face 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_BlackCow2/Face_BlackCow2</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_BlackCow3</defName>
+		<label>black cow face 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_BlackCow3/Face_BlackCow3</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<!-- Brown Face -->
+	<TattooDef>
+		<defName>FDCowTattoo_Face_BrownCow1</defName>
+		<label>brown cow face 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_BrownCow1/Face_BrownCow1</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_BrownCow2</defName>
+		<label>brown cow face 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_BrownCow2/Face_BrownCow2</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_BrownCow3</defName>
+		<label>brown cow face 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_BrownCow3/Face_BrownCow3</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<!-- Pink Face -->
+	<TattooDef>
+		<defName>FDCowTattoo_Face_PinkCow1</defName>
+		<label>pink cow face 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_PinkCow1/Face_PinkCow1</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_PinkCow2</defName>
+		<label>pink cow face 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_PinkCow2/Face_PinkCow2</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_PinkCow3</defName>
+		<label>pink cow face 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_PinkCow3/Face_PinkCow3</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<!-- White Face -->
+	<TattooDef>
+		<defName>FDCowTattoo_Face_WhiteCow1</defName>
+		<label>white cow face 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_WhiteCow1/Face_WhiteCow1</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_WhiteCow2</defName>
+		<label>white cow face 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_WhiteCow2/Face_WhiteCow2</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Face_WhiteCow3</defName>
+		<label>white cow face 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Face_WhiteCow3/Face_WhiteCow3</texPath>
+		<tattooType>Face</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooFaceCow</li>
+		</styleTags>
+	</TattooDef>
+
+
+<!-- Body -->
+	<!-- Black Body -->
+	<TattooDef>
+		<defName>FDCowTattoo_Body_BlackCow1</defName>
+		<label>black cow body 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_BlackCow1/Body_BlackCow1</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_BlackCow2</defName>
+		<label>black cow body 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_BlackCow2/Body_BlackCow2</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_BlackCow3</defName>
+		<label>black cow body 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_BlackCow3/Body_BlackCow3</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<!-- Brown Body -->
+	<TattooDef>
+		<defName>FDCowTattoo_Body_BrownCow1</defName>
+		<label>brown cow body 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_BrownCow1/Body_BrownCow1</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_BrownCow2</defName>
+		<label>brown cow body 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_BrownCow2/Body_BrownCow2</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_BrownCow3</defName>
+		<label>brown cow body 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_BrownCow3/Body_BrownCow3</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<!-- Pink Body -->
+	<TattooDef>
+		<defName>FDCowTattoo_Body_PinkCow1</defName>
+		<label>pink cow body 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_PinkCow1/Body_PinkCow1</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_PinkCow2</defName>
+		<label>pink cow body 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_PinkCow2/Body_PinkCow2</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_PinkCow3</defName>
+		<label>pink cow body 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_PinkCow3/Body_PinkCow3</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<!-- White Body -->
+	<TattooDef>
+		<defName>FDCowTattoo_Body_WhiteCow1</defName>
+		<label>white cow body 1</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_WhiteCow1/Body_WhiteCow1</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_WhiteCow2</defName>
+		<label>white cow body 2</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_WhiteCow2/Body_WhiteCow2</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+	
+	<TattooDef>
+		<defName>FDCowTattoo_Body_WhiteCow3</defName>
+		<label>white cow body 3</label>
+		<texPath>Things/Pawn/Humanlike/Tattoos/Body_WhiteCow3/Body_WhiteCow3</texPath>
+		<tattooType>Body</tattooType>
+		<category>Cow</category>
+		<visibleNorth>true</visibleNorth>
+		<styleTags>
+			<li>TattooBodyCow</li>
+		</styleTags>
+	</TattooDef>
+  
+</Defs>
